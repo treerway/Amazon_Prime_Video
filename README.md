@@ -10,4 +10,4 @@ Note that this dataset has lots of missing data. we utiliz impute the means appr
 - Due to the imporantance figure, the prime video team are supposed to introduce more highly_voted moive.
 - The position of single movive is another key factors to absorb the attention from audience. Based on our analysis, we have
 
-![](https://github.com/treerway/Amazon_Prime_Video/blob/main/plot_final.png)
+![](https://github.com/treerway/Amazon_Prime_Video/blob/main/plot_final.png)![](https://github.com/treerway/Amazon_Prime_Video/blob/main/google2.png)
