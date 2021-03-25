@@ -9,4 +9,4 @@ Note that this dataset has lots of missing data. we utiliz impute the means appr
 - The best model we developed is random forest. According to the different metrics, the R-sqaure is 0.51, which means that the model has explained almost 50% change information for target varibale 
 - Due to the imporantance figure, the prime video team are supposed to introduce more highly_voted moive.
 - The position of single movive is another key factors to absorb the attention from audience
-![%E6%88%AA%E5%B1%8F2021-03-25%20%E4%B8%8B%E5%8D%883.52.12.png](attachment:%E6%88%AA%E5%B1%8F2021-03-25%20%E4%B8%8B%E5%8D%883.52.12.png) This plot show the Google Gloden Triangle that display the information based on visitors perference
+![](https://github.com/treerway/Amazon_Prime_Video/blob/main/Google.png) This plot show the Google Gloden Triangle that display the information based on visitors perference
